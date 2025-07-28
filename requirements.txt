@@ -1,0 +1,7 @@
+openai-agents
+tavily-python
+chromadb
+sentence-transformers
+langchain
+langchain-openai
+langchain-chromadb
