@@ -233,13 +233,8 @@ The MIT License allows for:
 
 - [Z-Inspection Methodology](https://z-inspection.org/) - Original Z-Inspection framework and methodology
 - [EU HLEG Ethics Guidelines](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai)
-- [OpenAI Agents SDK](https://platform.openai.com/docs/assistants/overview)
-- [Collective Intelligence Research](https://unanimous.ai/)
-
-## 📞 Contact & Support
-
-- **Issues**: Please use GitHub Issues for bug reports and feature requests
-- **Discussions**: Join our GitHub Discussions for questions and ideas
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+- [Collective Intelligence Research](https://unanimous.ai/staff-item/louis-rosenberg-phd/)
 
 ## 🙏 Acknowledgments
 
