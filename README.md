@@ -80,11 +80,11 @@ Our use case implementation employs a multi-agent architecture for Islamic conte
 
 ### Human Expert Integration
 
-| Expert Domain        | Contribution                                | Interface                                  |
-| -------------------- | ------------------------------------------- | ------------------------------------------ |
-| **Legal Expert**     | Compliance assessment, regulatory alignment | File-based review, structured CLI          |
-| **Technical Expert** | Code quality, system architecture           | GitHub repository analysis                 |
-| **UI/UX Expert**     | User experience, accessibility              | Interface evaluation, usability assessment |
+| Expert Domain        | Contribution                                |
+| -------------------- | ------------------------------------------- |
+| **Legal Expert**     | Compliance assessment, regulatory alignment |
+| **Technical Expert** | Code quality, system architecture           |
+| **UI/UX Expert**     | User experience, accessibility              |
 
 ### Use Case Implementation Diagram
 
